@@ -8,4 +8,3 @@
 - **フレームワーク:** [Hono](https://hono.dev/)
 - **デプロイ:** [Cloudflare Workers](https://developers.cloudflare.com/workers/)
 - **言語:** TypeScript
--
